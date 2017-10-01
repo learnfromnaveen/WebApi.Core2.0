@@ -1,0 +1,12 @@
+C:\Users\navee\source\repos\WebApisample1\WebApisample1\bin\Release\netcoreapp2.0\nlog.config
+C:\Users\navee\source\repos\WebApisample1\WebApisample1\bin\Release\netcoreapp2.0\WebApisample1.deps.json
+C:\Users\navee\source\repos\WebApisample1\WebApisample1\bin\Release\netcoreapp2.0\WebApisample1.runtimeconfig.json
+C:\Users\navee\source\repos\WebApisample1\WebApisample1\bin\Release\netcoreapp2.0\WebApisample1.runtimeconfig.dev.json
+C:\Users\navee\source\repos\WebApisample1\WebApisample1\bin\Release\netcoreapp2.0\WebApisample1.dll
+C:\Users\navee\source\repos\WebApisample1\WebApisample1\bin\Release\netcoreapp2.0\WebApisample1.pdb
+C:\Users\navee\source\repos\WebApisample1\WebApisample1\obj\Release\netcoreapp2.0\WebApisample1.csprojResolveAssemblyReference.cache
+C:\Users\navee\source\repos\WebApisample1\WebApisample1\obj\Release\netcoreapp2.0\WebApisample1.csproj.CoreCompileInputs.cache
+C:\Users\navee\source\repos\WebApisample1\WebApisample1\obj\Release\netcoreapp2.0\WebApisample1.AssemblyInfoInputs.cache
+C:\Users\navee\source\repos\WebApisample1\WebApisample1\obj\Release\netcoreapp2.0\WebApisample1.AssemblyInfo.cs
+C:\Users\navee\source\repos\WebApisample1\WebApisample1\obj\Release\netcoreapp2.0\WebApisample1.dll
+C:\Users\navee\source\repos\WebApisample1\WebApisample1\obj\Release\netcoreapp2.0\WebApisample1.pdb

@@ -1,0 +1,9 @@
+2017-09-30 12:10:13.4334|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:64079/  
+2017-09-30 12:10:13.6470|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 242.0765ms 404 text/plain
+2017-09-30 12:10:13.7061|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:64079/favicon.ico  
+2017-09-30 12:10:13.7249|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 13.5917ms 404 text/plain
+2017-09-30 12:10:35.8805|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DELETE http://localhost:64079/api/cities/1/pointsofinterest/1  
+2017-09-30 12:10:36.0055|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method WebApisample1.Controllers.PointsOfInterestController.DeletePointOfInterest (WebApisample1) with arguments (1, 1) - ModelState is Valid
+2017-09-30 12:10:36.0223|INFO|Microsoft.AspNetCore.Mvc.StatusCodeResult|Executing HttpStatusCodeResult, setting HTTP status code 204
+2017-09-30 12:10:36.0363|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action WebApisample1.Controllers.PointsOfInterestController.DeletePointOfInterest (WebApisample1) in 53.2228ms
+2017-09-30 12:10:36.0481|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 165.5164ms 204 
